@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+    width: 100%;
+}
+ul,
+ol {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+a {
+    text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.link {
+    margin: 24px 150px 150px 200px;
+}
+.links {
+    display: flex;
+    align-items: center;
+}
+.links2 {
+    display: flex;
+    align-items: center;
+    margin-left: 400px;
+}
+
+img {
+    display: block;
+}
+header {
+    display: flex;
+    background: #1f1d1d;
+    height: 80px;
+    align-items: center;
+}
+.netflix {
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31px;
+    letter-spacing: 0.03em;
+    color: #ff0000;
+}
+.home {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #979197;
+    margin-right: 50px;
+
+}
+.home:hover,
+.home:focus {
+    color: #ffffff
+}
+.shows{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #979197;
+    margin-right: 50px;
+
+}
+.shows:hover,
+.shows:focus {
+    color: #ffffff
+}
+.movies{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #979197;
+    margin-right: 50px;
+
+}
+.movies:hover,
+.movies:focus {
+    color: #ffffff
+}
+.new{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #979197;
+    margin-right: 50px;
+
+}
+.new:hover,
+.new:focus {
+    color: #ffffff
+}
+.my-list{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #979197;
+    margin-right: 50px;
+
+}
+.my-list:hover,
+.my-list:focus {
+    color: #ffffff
+}
+.child{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    color: #979197;
+    margin-right: 50px;
+
+}
+.child:hover,
+.child:focus {
+    color: #ffffff
+}
+
+.image1
+{
+    margin-right: 24px;
+}
+.image2
+{
+    margin-right: 24px;
+}
